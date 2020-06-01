@@ -5,9 +5,6 @@ puts "Wingardium Leviosa"
 levitation_force += 1
   #your code here
 end 
-
-def levitation_force
-  puts "Wingardium Leviosa"
 end 
 
 
